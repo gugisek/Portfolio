@@ -78,3 +78,26 @@ $langs='
         <a class="text-sub3">LINUX</a>
 ';
 include 'works/function_posts.php';
+
+// PartyHub
+
+$img_src="img/partyhub.png";
+$title="PartyHub";
+$description='
+            <p>
+                App for <span style="color: #ff0000">party</span> organization in local area.
+            </p>
+                <li>fully operative prototype</li>
+                <li>variants for buttons</li>
+                <li>projected messenging function</li>
+                <li>transition animations</li>
+            <p>
+                Builded for easy and fast finfing new people to party with. Only prototype.
+            </p>
+';
+$web_link='';
+$github_link='';
+$langs='
+        <a class="text-sub3 fw-regular">FIGMA</a>
+';
+include 'works/function_posts.php';

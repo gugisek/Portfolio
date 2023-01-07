@@ -7,8 +7,8 @@
             <p class="m-0 fs-6 fw-semibold"><?= $title; ?></p>
             <?= $description ?>
         </div>
-            <div class="d-flex flex-wrap ac js-dir gap-5 w-100 h-60px-dir">
-                <a href="<?= $web_link ?>" target="blank" class="btn">
+            <div class="d-flex flex-wrap ac js-dir gap-5 w-100 h-60px-dir" <?php if(empty($web_link)&&empty($github_link)){echo 'style="display:none!important"';}?>>
+                <a href="<?= $web_link ?>" target="blank" class="btn" <?php if(empty($web_link)){echo 'style="display:none!important"';}?>>
                     <?php if($lang=="pl"){echo "strona";}else{echo "website";} ?>
                     <img src="img/icon1.png" alt="">
                 </a>
@@ -19,6 +19,6 @@
             </div>
     </div>
 </section>
-<div class="d-flex flex-row flex-wrap gap-1-5 w-100 ac jc text-sub2 fs-09 pb-20px mt-30px">
+<div class="d-flex flex-row flex-wrap gap-1-5 w-100 ac jc text-sub2 fs-09 py-20px ">
     <?= $langs; ?>
 </div>

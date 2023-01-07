@@ -78,3 +78,26 @@ $langs='
         <a class="text-sub3">LINUX</a>
 ';
 include 'works/function_posts.php';
+
+// PartyHub
+
+$img_src="img/partyhub.png";
+$title="PartyHub";
+$description='
+            <p>
+                Aplikacja zaprojektowana dla organizacji <span style="color: #ff0000">imprez</span> w okolicy.
+            </p>
+                <li>w pełni działający prototyp</li>
+                <li>warianty dla przycisków</li>
+                <li>projket czatu w aplikacji</li>
+                <li>animacje przejścia</li>
+            <p>
+                Celem projektu było stworzenie aplikacji, która pozwoli na szybkie i łatwe organizowanie imprez. Tylko prototyp.
+            </p>
+';
+$web_link='';
+$github_link='';
+$langs='
+        <a class="text-sub3 fw-regular">FIGMA</a>
+';
+include 'works/function_posts.php';
