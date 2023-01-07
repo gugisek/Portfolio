@@ -6,22 +6,25 @@
         <div>
             <p class="m-0 fs-6 fw-semibold">Praktyczny-informatyk.pl</p>
             <p>
-                Website with <span style="color: #d800ff">tutorials</span> for practical exams for IT.
+                Prosta strona z <span style="color: #d800ff">opracowaniami</span> dla egzaminów praktycznych INF.03 oraz INF.02.
             </p>
-                <li>working search bar</li>
-                <li>sorting elements by date</li>
-                <li>download files from server</li>
+                <li>działająca wyszukiwarka</li>
+                <li>sortowanie po dacie</li>
+                <li>pobranie plików z serwera</li>
             <p>
-                <!-- Strona składa się z podstron oraz katalogu z elementami jako obiekty w liście egzaminów -->
-                Builded on subsites and folder with elements as objects in list on site.
+                Strona składa się z podstron oraz katalogu z elementami jako obiekty w liście egzaminó
+                
             </p>
         </div>
             <div class="d-flex flex-wrap ac js-dir gap-5 w-100 h-60px-dir">
                 <a href="https://praktyczny-informatyk.pl/" target="blank" class="btn">
-                    website
+                    strona
                     <img src="img/icon1.png" alt="">
                 </a>
-
+                <!-- <a href="https://rgbpc.pl/" target="blank" class="btn my-10px">
+                    github
+                    <img src="img/icon2.png" alt="">
+                </a> -->
             </div>
     </div>
 </section>
