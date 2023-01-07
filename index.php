@@ -8,7 +8,7 @@
         include 'components/home.php';
         include 'components/about.php';
         include 'components/works.php';
-        include 'components/contact2.php';
+        include 'components/contact.php';
         include 'components/footer.php';
     ?>
 </body>

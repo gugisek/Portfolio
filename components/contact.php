@@ -1,41 +1,42 @@
+<h1 class="m-0 fs-15 ml-1 px-10" style="color: #E0E0E0">CONTACT</h1>
 <span id="contact"></span>
-<section style="background: #3d3d3d" class="text-white d-flex flex-row flex-wrap jc ac py-50px">
-    <div class="w-50 d-flex ac jc flex-col">
-        <span class="py-30px fs-5 fw-regular">traditional</span>
-        <table>
-            <tr>
-                <td class="text-sub text-right">email</td>
-                <td class="fs-2 fw-extra-light pl-10px">gugisek@gmail.com</tr>
-            </tr>
-            <tr>
-                <td class="text-sub text-right">spot</td>
-                <td class="fs-2 fw-extra-light pl-10px">Warsaw, Poland</td>
-            </tr> 
-        </table>
-    </div>
-    <div class="w-50 d-flex ac jc flex-col min-w-300px">
-        <span class="py-30px fs-5 fw-regular">social media</span>
-        <div class="d-flex flex-row flex-wrap w-100 jc">
-            <table class="w-30">
-                <tr>
-                    <td class="text-sub text-right">youtube</td>
-                    <td class="fs-2 fw-extra-light pl-10px"><a href="https://youtube.com/myszorek3" target="blank" class="text-white">GuGiSeK</a></tr>
-                </tr>
-                <tr>
-                    <td class="text-sub text-right">twitter</td>
-                    <td class="fs-2 fw-extra-light pl-10px"><a href="https://mobile.twitter.com/gugisek_gu" target="blank" class="text-white">gugisek_gu</a></td>
-                </tr> 
-            </table>
-            <table class="w-30">
-                <tr>
-                    <td class="text-sub text-right">instagram</td>
-                    <td class="fs-2 fw-extra-light pl-10px"><a href="https://www.instagram.com/gugisek_foto/" target="blank" class="text-white">gugisek_foto</a></tr>
-                </tr>
-                <tr>
-                    <td class="text-sub text-right">facebook</td>
-                    <td class="fs-2 fw-extra-light pl-10px"><a href="https://www.facebook.com/gugisek.gu/" target="blank" class="text-white">Gugisek Gu</a></td>
-                </tr> 
-            </table>
-        </div>
-    </div>
+<section class="w-80 px-10 h-80vh" style="background-color: #E0E0E0">
+    <h1 class="m-0 fs-15 ml-1" style="color: #FFF">CONTACT</h1>
+    <section class="w-100 h-100 d-flex ac jc">
+        <section class="h-100 d-flex flex-row row-dir flex-warp ac jc gap-5">
+            <img src="img/profile.jpg" alt="" class="border-r-50" style="height:150px; box-shadow: 0 0 25px 0 rgba(0,0,0,0.5);">
+            <div class="w-100">
+                <div class="d-flex flex-row flex-wrap w-100 gap-7">
+                    <div class="d-flex flex-row ac jc my-5px">
+                        <img src="img/instagram1.png" alt="" style="width: 25px;">
+                       <a href="https://www.instagram.com/gugisek_foto/" target="blank" class="mt-1px ml-10px transition-03 instagram">INSTAGRAM</a>
+                    </div>
+                    <div class="d-flex flex-row ac jc">
+                        <img src="img/facebook1.png" alt="" style="width: 25px;">
+                        <a href="https://www.facebook.com/gugisek.gu/" target="blank" class="mt-1px ml-5px transition-03 facebook">FACEBOOK</a>
+                    </div>
+                    <div class="d-flex flex-row ac jc">
+                        <img src="img/discord1.png" alt=""style="width: 25px;">
+                        <input type="text" style="display: none;" value="GuGiSeK#6233" id="myInput">
+                        <a href="https://discord.com/users/397457121660108811" target="blank" class="mt-1px ml-10px transition-03 discord m-0">DISCORD</a>
+                    </div>
+
+                </div>
+                <div class="d-flex flex-row flex-wrap ac gap-5 w-100 gap-5">
+                    <div class="my-10px">
+                        <p class="m-0 fs-09">18'th year old</p>
+                        <p class="m-0 fs-2 fw-bold mt--3px">Gustaw Sołdecki</p>
+                    </div>
+                    <div class="d-flex flex-row ac jc">
+                        <img src="img/map.png" alt="" style="width: 30px">
+                        <a href="https://www.google.pl/maps/@52.2507275,21.0377675,11.34z" target="blank" class="ml-10px">Warsaw, Poland</a>
+                    </div>
+                    <div class="d-flex flex-row ac jc">
+                        <img src="img/gmail.png" alt="" style="width: 40px">
+                        <a href="mailto:gugisek@gmail.com" class="ml-10px">gugisek@gmail.com</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </section>
 </section>

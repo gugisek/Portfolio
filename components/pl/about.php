@@ -1,5 +1,3 @@
-
-
 <section class="bg-gradient w-80 px-10 min-h-40vh d-flex ac jc flex-row" style="">
     <div class="d-flex as jc flex-row flex-wrap gap-5 max-w-1300px w-100">
         <div class="pt-20px d-flex flex-col ac jc font-family-roboto max-w-200px text-center h-100">

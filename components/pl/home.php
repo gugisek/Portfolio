@@ -22,13 +22,13 @@
             </div>
             <div class="d-flex flex-row flex-wrap fw-light fs-3">
                 <div class="px-20px">
-                    <a href="#about">o mnie</a>
+                    <a href="#o-mnie">o mnie</a>
                 </div>
                 <div class="px-20px">
-                    <a href="#works">moje prace</a>
+                    <a href="#moje-prace">moje prace</a>
                 </div>
                 <div class="px-20px">
-                    <a href="#contact">kontakt</a>
+                    <a href="#kontakt">kontakt</a>
                 </div>
             </div>
         </nav>
@@ -40,7 +40,7 @@
             zjedź w dół
         </footer>
     </section>
-    <span id="about"></span>
+    <span id="o-mnie"></span>
     <section class="w-100 d-flex flex-row flex-wrap ac jc gap-10 pt-150px pb-50px">
         <div class="d-flex flex-col ac jc">
             <a href="https://www.facebook.com/gugisek.gu/" target="blank"> <img src="img/profile.jpg" alt="profile-image" class="profile border-r-50"></a>

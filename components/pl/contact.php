@@ -1,5 +1,5 @@
 <h1 class="m-0 fs-15 ml-1 px-10" style="color: #E0E0E0">KONTAKT</h1>
-<span id="contact"></span>
+<span id="kontakt"></span>
 <section class="w-80 px-10 h-80vh" style="background-color: #E0E0E0">
     <h1 class="m-0 fs-15 ml-1" style="color: #FFF">KONTAKT</h1>
     <section class="w-100 h-100 d-flex ac jc">

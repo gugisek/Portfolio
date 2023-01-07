@@ -8,8 +8,6 @@
     ">
         <a class="text-white fs-6 fw-extra-light font-family-lexend">my works</a>
     </div>
-    <?php foreach (glob("works/*.php") as $filename) {     
-            include $filename;      
-        } 
+    <?php include 'works/posts_eng.php';
     ?> 
 </section> 

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
     <?php 
         include 'components/pl/header.php'; 
     ?>
