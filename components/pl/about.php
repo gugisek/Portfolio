@@ -50,52 +50,81 @@
                 </div>
             </div>
             <div class="py-10px">
-                <span>3D</span><span class="fw-light"> 70%</span>
+                <span>SketchUp</span><span class="fw-light"> 70%</span>
                 <div class="pasek">
                     <div class="loaded w-70"></div>
                 </div>
             </div>
+            <div class="py-10px">
+                <span>Figma</span><span class="fw-light"> 50%</span>
+                <div class="pasek">
+                    <div class="loaded w-50"></div>
+                </div>
+            </div>
+            <div class="py-10px">
+                <span>Premiere Pro</span><span class="fw-light"> 40%</span>
+                <div class="pasek">
+                    <div class="loaded w-40"></div>
+                </div>
+            </div>
         </div>
         <div class="w-50-dir text-center h-100 py-30px">
-            <span>Programy & systemy</span>
+            <span>Programy & programowanie</span>
         </div>
     </div>
     <div class="w-100 max-w-1000px d-flex flex-row flex-wrap jc ac py-20px">
         <div class="w-50-dir text-center h-100 py-30px">
-            <span>Sprzęt & sieci</span>
+            <span>Sprzęt & elektronika</span>
         </div>
         <div class="w-50-dir fs-1 min-w-200px">
             <div class="py-10px">
-                <span>HTML</span><span class="fw-light"> 90%</span>
+                <span>Apple iPhone - serwis / naprawa</span><span class="fw-light"> 70%</span>
+                <div class="pasek">
+                    <div class="loaded w-70"></div>
+                </div>
+            </div>
+            <div class="py-10px">
+                <span>PC - budowanie / serwis / administrowanie</span><span class="fw-light"> 90%</span>
                 <div class="pasek">
                     <div class="loaded w-90"></div>
                 </div>
             </div>
             <div class="py-10px">
-                <span>CSS</span><span class="fw-light"> 90%</span>
+                <span>Projektowanie oraz budowa stanowisk komputerowych</span><span class="fw-light"> 80%</span>
+                <div class="pasek">
+                    <div class="loaded w-80"></div>
+                </div>
+            </div>
+            <div class="py-10px">
+                <span>Taśmy LED RGB, aRGB - implementacja / serwis</span><span class="fw-light"> 90%</span>
                 <div class="pasek">
                     <div class="loaded w-90"></div>
                 </div>
             </div>
             <div class="py-10px">
-                <span>JS</span><span class="fw-light"> 55%</span>
+                <span>Smart home - budowa sieci / montaż urządzeń</span><span class="fw-light"> 40%</span>
                 <div class="pasek">
-                    <div class="loaded w-55"></div>
+                    <div class="loaded w-40"></div>
                 </div>
             </div>
             <div class="py-10px">
-                <span>PHP</span><span class="fw-light"> 60%</span>
+                <span>Lutowanie - poziom średnio zaawansowany</span><span class="fw-light"> 80%</span>
+                <div class="pasek">
+                    <div class="loaded w-80"></div>
+                </div>
+            </div>
+            <div class="py-10px">
+                <span>Elektronika - naprawa / diagnoza</span><span class="fw-light"> 60%</span>
                 <div class="pasek">
                     <div class="loaded w-60"></div>
                 </div>
             </div>
             <div class="py-10px">
-                <span>3D</span><span class="fw-light"> 70%</span>
+                <span>Sieci oraz administrowanie serwerami</span><span class="fw-light"> 60%</span>
                 <div class="pasek">
-                    <div class="loaded w-70"></div>
+                    <div class="loaded w-60"></div>
                 </div>
             </div>
         </div>
-
     </div>
 </section>

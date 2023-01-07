@@ -52,9 +52,21 @@
                 </div>
             </div>
             <div class="py-10px">
-                <span>3D</span><span class="fw-light"> 70%</span>
+                <span>SketchUp</span><span class="fw-light"> 70%</span>
                 <div class="pasek">
                     <div class="loaded w-70"></div>
+                </div>
+            </div>
+            <div class="py-10px">
+                <span>Figma</span><span class="fw-light"> 50%</span>
+                <div class="pasek">
+                    <div class="loaded w-50"></div>
+                </div>
+            </div>
+            <div class="py-10px">
+                <span>Premiere Pro</span><span class="fw-light"> 40%</span>
+                <div class="pasek">
+                    <div class="loaded w-40"></div>
                 </div>
             </div>
         </div>
@@ -68,33 +80,51 @@
         </div>
         <div class="w-50-dir fs-1 min-w-200px">
             <div class="py-10px">
-                <span>HTML</span><span class="fw-light"> 90%</span>
+                <span>Apple iPhone - service / rapair</span><span class="fw-light"> 70%</span>
+                <div class="pasek">
+                    <div class="loaded w-70"></div>
+                </div>
+            </div>
+            <div class="py-10px">
+                <span>PC - build / service / repair / administration,</span><span class="fw-light"> 90%</span>
                 <div class="pasek">
                     <div class="loaded w-90"></div>
                 </div>
             </div>
             <div class="py-10px">
-                <span>CSS</span><span class="fw-light"> 90%</span>
+                <span>Desktop builds and projects</span><span class="fw-light"> 80%</span>
+                <div class="pasek">
+                    <div class="loaded w-80"></div>
+                </div>
+            </div>
+            <div class="py-10px">
+                <span>LED RGB, aRGB - using / implement / repair</span><span class="fw-light"> 90%</span>
                 <div class="pasek">
                     <div class="loaded w-90"></div>
                 </div>
             </div>
             <div class="py-10px">
-                <span>JS</span><span class="fw-light"> 55%</span>
+                <span>Smart home - web / devices</span><span class="fw-light"> 40%</span>
                 <div class="pasek">
-                    <div class="loaded w-55"></div>
+                    <div class="loaded w-40"></div>
                 </div>
             </div>
             <div class="py-10px">
-                <span>PHP</span><span class="fw-light"> 60%</span>
+                <span>Soldering medium stage</span><span class="fw-light"> 80%</span>
+                <div class="pasek">
+                    <div class="loaded w-80"></div>
+                </div>
+            </div>
+            <div class="py-10px">
+                <span>Electronics - diagnosis / repair</span><span class="fw-light"> 60%</span>
                 <div class="pasek">
                     <div class="loaded w-60"></div>
                 </div>
             </div>
             <div class="py-10px">
-                <span>3D</span><span class="fw-light"> 70%</span>
+                <span>Web and Servers</span><span class="fw-light"> 60%</span>
                 <div class="pasek">
-                    <div class="loaded w-70"></div>
+                    <div class="loaded w-60"></div>
                 </div>
             </div>
         </div>
