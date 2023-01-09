@@ -37,7 +37,7 @@
             <span class="fw-regular fs-6">I'm Gustawo</span>
         </div>
         <footer class="py-40px fw-light">
-            scroll for more
+            <a href="#about">scroll for more</a>
         </footer>
     </section>
     <span id="about"></span>

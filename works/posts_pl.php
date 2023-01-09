@@ -29,7 +29,7 @@ $description='
             <p>
                 Gamingowy sklep, w pełni spersonalizowany schemat <span style="color: #7b02ff">woocomerce</span>
             </p>
-                <li>funckjolalne strony produktów</li>
+                <li>funkcjonalne strony produktów</li>
                 <li>dostęne warianty asortymentu</li>
                 <li>oddzielny system zarządzania magazynem</li>
                 <li>modernistyczny styl siatki produktów</li>
@@ -65,7 +65,7 @@ $description='
                 <li>sortowanie po dacie</li>
                 <li>pobranie plików z serwera</li>
             <p>
-                Strona składa się z podstron oraz katalogu z elementami jako obiekty w liście egzaminó
+                Strona składa się z podstron oraz katalogu z elementami jako obiekty w liście egzaminów
                 
             </p>
 ';

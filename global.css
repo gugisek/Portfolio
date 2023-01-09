@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Lexend:200,300,400,500,700,900&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,700,900&display=swap');
 
-  ::-webkit-scrollbar {
-    width: 10px;
+  /* ::-webkit-scrollbar {
+    width: 5px;
+    transition: all 0.3s;
   }
   ::-webkit-scrollbar-track {
     background: #b5b5b5de;
@@ -11,12 +12,33 @@
   ::-webkit-scrollbar-thumb {
     background: #888;
     border-radius: 30px;
+    transition: all 0.3s;
   }
 
   ::-webkit-scrollbar-thumb:hover {
     background: #555;
     scale: 1.1;
-  }
+  } */
+  ::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+    background: #b5b5b5de;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    border: 0;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
 
 html {
     scroll-behavior: smooth;

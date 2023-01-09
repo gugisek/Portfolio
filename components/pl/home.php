@@ -37,7 +37,7 @@
             <span class="fw-regular fs-6">Jestem Gustaw</span>
         </div>
         <footer class="py-40px fw-light">
-            zjedź w dół
+            <a href="#o-mnie">zjedź w dół</a>
         </footer>
     </section>
     <span id="o-mnie"></span>
