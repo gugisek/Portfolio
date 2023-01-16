@@ -101,3 +101,27 @@ $langs='
         <a class="text-sub3 fw-regular">FIGMA</a>
 ';
 include 'works/function_posts.php';
+
+// agnecyTech.pl
+
+$img_src="img/agencytech.png";
+$title="AgencyTech.pl";
+$description='
+            <p>
+                Projekt strony dla <span style="color: #0097ff">agencji social media</span>.
+            </p>
+                <li>w pełni działający prototyp</li>
+                <li>warianty dla przycisków</li>
+                <li>zaprojektowany panel klienta z różnymi sekcjami</li>
+                <li>widgety w panelu klienta</li>
+                <li>efekt paralaxu w sekcjach na stronie głównej</li>
+            <p>
+                Zaprojektowane dla agencji social media jako platforma zarządzająca usługami dla klientów docelowych. Na obecną chwilę jest tylko prototyp.
+            </p>
+';
+$web_link='';
+$github_link='';
+$langs='
+        <a class="text-sub3 fw-regular">FIGMA</a>
+';
+include 'works/function_posts.php';

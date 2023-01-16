@@ -92,7 +92,31 @@ $description='
                 <li>projected messenging function</li>
                 <li>transition animations</li>
             <p>
-                Builded for easy and fast finfing new people to party with. Only prototype.
+                Builded for easy and fast finding new people to party with. Only prototype.
+            </p>
+';
+$web_link='';
+$github_link='';
+$langs='
+        <a class="text-sub3 fw-regular">FIGMA</a>
+';
+include 'works/function_posts.php';
+
+// agnecyTech.pl
+
+$img_src="img/agencytech.png";
+$title="AgencyTech.pl";
+$description='
+            <p>
+                Website for tech <span style="color: #0097ff">agency</span> with <span style="color: #0097ff">IT</span> services.
+            </p>
+                <li>fully operative prototype</li>
+                <li>variants for buttons</li>
+                <li>projected customer panel with diffrent sections</li>
+                <li>widgets in client panel</li>
+                <li>parallax scrolling efects on sections in home page</li>
+            <p>
+                Projected for agency company as platform for menaging services for customers. On this moment only prototype.
             </p>
 ';
 $web_link='';
